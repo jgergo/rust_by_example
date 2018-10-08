@@ -2,7 +2,6 @@
 ///as they are different concepts which are used differently from a language like C.
 /// * Dereferencing uses *,
 /// * Destructuring uses &, ref, and ref mut
-
 fn main() {
     // Assign a reference of type `i32`. The `&` signifies there
     // is a reference being assigned.
